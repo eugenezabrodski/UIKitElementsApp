@@ -60,8 +60,8 @@
 				AF565EFA2900394B008375F9 /* SceneDelegate.swift */,
 				AF565EFC2900394B008375F9 /* ViewController.swift */,
 				AF565EFE2900394B008375F9 /* Main.storyboard */,
-				AF565F012900394F008375F9 /* Assets.xcassets */,
 				AF565F032900394F008375F9 /* LaunchScreen.storyboard */,
+				AF565F012900394F008375F9 /* Assets.xcassets */,
 				AF565F062900394F008375F9 /* Info.plist */,
 			);
 			path = UIKitElementApp;
